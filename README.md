@@ -1,5 +1,8 @@
 ## Mobile Application Website
+<p align="center">
 <h4>Visualization of the Website</h4>
+</p>
+
 <br>
 <p align="center">
 <img src="excursion.gif" alt="my website" width="650" height="400">
