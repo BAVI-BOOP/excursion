@@ -1,1 +1,1 @@
-<img src="excursion.gif" alt="my website" width="65000" height="400">
+<img src="excursion.gif" alt="my website" width="6500" height="400">
