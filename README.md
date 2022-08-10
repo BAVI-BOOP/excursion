@@ -36,5 +36,5 @@ In this project I mastered division and professional photo and video mixture.We 
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/SQL-projects/blob/main/chinook-data/chinook.db'>Chinook Database</a>
-<br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>SQLite tutorial</a>
+<br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/excursion-website'>My Docs</a>
+<br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
