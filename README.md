@@ -1,7 +1,7 @@
 ## Mobile Application Website
 <h4>Visualization of the Website</h4>
 <br>
-<div style="margin-left: 20px;">
+<div style="margin-left: 200px;">
 <img src="excursion.gif" alt="my website" width="650" height="400">
 </div>
 <hr>
