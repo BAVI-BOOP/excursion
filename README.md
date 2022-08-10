@@ -1,9 +1,9 @@
 ## Mobile Application Website
 <h4>Visualization of the Website</h4>
 <br>
-<div style="margin-left: 200px;">
+<p align="center">
 <img src="excursion.gif" alt="my website" width="650" height="400">
-</div>
+</p>
 <hr>
 <b>Check The Live Website ➡️</b> <a href="https://github.com/BAVI-BOOP/SQL-projects/blob/main/chinook-data/main.sql">Queries</a>
 <hr>
