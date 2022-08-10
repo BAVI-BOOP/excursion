@@ -2,7 +2,7 @@
 <h3 align="center">Visualization of the Website</h3>
 <br>
 <p align="center">
-<img src="excursion.gif" alt="my website" width="590" height="400">
+<img src="excursion.gif" alt="my website" width="590" height="350">
 </p>
 <hr>
 <b>Check The Live Website ➡️</b> <a href="https://github.com/BAVI-BOOP/SQL-projects/blob/main/chinook-data/main.sql">Live Website</a>
