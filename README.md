@@ -5,7 +5,7 @@
 <img src="excursion.gif" alt="my website" width="590" height="350">
 </p>
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://github.com/BAVI-BOOP/SQL-projects/blob/main/chinook-data/main.sql">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/excursion-website/">Live Website</a>
 <hr>
 <h3>Overview</h3>
 In this project I mastered division and professional photo and video mixture.We used HTML and CSS. You can see visual representation of the website above. 
