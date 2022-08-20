@@ -2,7 +2,7 @@
 <h3 align="center">Visualization of the Website</h3>
 <br>
 <p align="center">
-<a href="https://bavi-boop.github.io/parallax-website/"><img src="excursion.gif" alt="screenshot" width="600" height="400"></a>
+<a href="https://bavi-boop.github.io/excursion-website/"><img src="excursion.gif" alt="screenshot" width="600" height="400"></a>
 </p>
 <hr>
 <b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/excursion-website/">Live Website</a>
