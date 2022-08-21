@@ -1,20 +1,36 @@
-## Mobile Application Website
-<h3 align="center">Visualization of the Website</h3>
-<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="hello.png" alt="screenshot"></a>
+</p>
+
+
+
+
+# Mobile Application Website
+
+## Table of contents
+
+  - [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Project Skeleton](#project-skeleton)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [How to use the Project](#how-to-use-the-project)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+In this project I mastered division and professional photo and video mixture.We used HTML and CSS. You can see visual representation of the website above.
+
+## Screenshot
 <p align="center">
 <a href="https://bavi-boop.github.io/excursion-website/"><img src="excursion.gif" alt="screenshot" width="600" height="400"></a>
 </p>
-<hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/excursion-website/">Live Website</a>
-<hr>
-<h3>Overview</h3>
-In this project I mastered division and professional photo and video mixture.We used HTML and CSS. You can see visual representation of the website above. 
-<hr>
-<h3>Project Skeleton</h3>
+
+## Project Skeleton
   
 ```
-|-- excursion-website
-    |-- resources
+|-- Excursion-website(folder)
+    |-- resources(folder)
         |-- css
             |-- style.css
         |-- images
@@ -22,19 +38,62 @@ In this project I mastered division and professional photo and video mixture.We 
             |-- phone.png
         |-- videos
             |-- excursion.mp4
-        |-- main.sql
     |-- index.html
     |-- excursion.gif
     |-- README.md
 ```    
+
+## Links
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/excursion-website/">Live Website</a>
+<br>
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+- [Styled Components](https://styled-components.com/) - For styles
+	
+- HTML Forms-Input Types 
+
+- HTML Form Elements
+
+- CSS Colors-Border Properties
+
+- CSS Margins-Padding
+
+- CSS Properties for Texts-Font Families-Links
+
+
+-
+
+## Notes
+
+- You can use HTML,and CSS to complete this project.
+
 <hr>
-<h3>Used in this project</h3>
-
-👉HTML tags, Comments, CSS styling, Positioning,etc.
-
-
-<hr>
-<h3>How to Use the Project</h3>
+## How to Use the Project
 <span>First download a code editor </span>
 <br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/excursion-website'>My Docs</a>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
+
+
+### Useful resources
+
+- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
+- [Clarusway](https://clarusway.com/aws-devops/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCjMru99tYkggAXDKaHPXlmNHqGXxFtkPw_EeiIechV8YNa6bUd9DLkaAsJkEALw_wcB) - This Project was assigned by Clarusway.
+
+
+
+
+
+## Author
+
+- Author - [Ahmet]
+
+<center> &#8987; Happy Coding  &#9997; </center>
+
