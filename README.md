@@ -14,7 +14,7 @@
   - [Project Skeleton](#project-skeleton)
   - [Links](#links)
   - [Built with](#built-with)
-  - [How to use the Project](#how-to-use-the-project)
+  - [How to Use the Project](#how-to-use-the-project)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
