@@ -14,7 +14,7 @@
   - [Project Skeleton](#project-skeleton)
   - [Links](#links)
   - [Built with](#built-with)
-  - [How to Use the Project](#how-to-use-the-project)
+  - [How to use the project](#How-to-use-the-project)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -74,8 +74,8 @@ In this project I mastered division and professional photo and video mixture.We 
 
 - You can use HTML,and CSS to complete this project.
 
-<hr>
-## How to Use the Project
+
+## How to use the project
 <span>First download a code editor </span>
 <br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/excursion-website'>My Docs</a>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
